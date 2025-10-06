@@ -39,46 +39,52 @@
 ### 1.3 Viðskiptamarkmið
 
 BO-1:Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum eftir fyrstu útgáfu.
-- Scale:
-- Meter:
-- Past:
-- Goal:
-- Stretch:
+
+- Scale: Meðaltími sem notandi eyðir í að skrá vinnu, akstur og kvittanir á dag.
+- Meter: Mældur með notendagögnum úr kerfinu (inn- og útskráningartími skráninga) og notendakönnun.
+- Past (Baseline): Um 8 mínútur á dag að meðaltali.
+- Goal: 6 mínútur á dag.
+- Stretch: 5 mínútur á dag.
 
 BO-2:Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að hægt sé að minnka eldneytiskostnað um 5% ári eftir fyrstu útgáfu.
-- Scale:
-- Meter:
-- Past:
-- Goal:
-- Stretch:
+
+- Scale: Meðalheildarkostnaður vegna aksturs (krónur á kílómetra) á ári.
+- Meter: Upplýsingar úr kerfinu og reikningum bókhalds um endurgreiddan aksturskostnað.
+- Past (Baseline): 100% af skráðum aksturskostnaði endurgreiddur án samanburðar við raunakstur.
+- Goal: 95% af fyrri kostnaði (5% sparnaður).
+- Stretch: 90% af fyrri kostnaði (10% sparnaður).
 
 BO-3:Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánuðum eftir fyrstu útgáfu.
-- Scale:
-- Meter:
-- Past:
-- Goal:
-- Stretch:
+
+- Scale: Fjöldi villutilfella í kostnaðar- eða launaútreikningi á mánuði.
+- Meter: Skráðar villur í bókhaldskerfi eða endurskoðunargögnum.
+- Past (Baseline): 20 villur á mánuði.
+- Goal: 2 villur á mánuði.
+- Stretch: 0–1 villa á mánuði.
 
 BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%, 6 mánuðum eftir fyrstu útgáfu.
-- Scale:
-- Meter:
-- Past:
-- Goal:
-- Stretch:
+
+- Scale: Meðaltími (í dögum) frá innsendingu kvittunar til endurgreiðslu.
+- Meter: Bókhaldskerfi sveitarfélagsins og dagsetningar úr kvittunarskrá.
+- Past (Baseline): 10 dagar að meðaltali.
+- Goal: 8 dagar að meðaltali.
+- Stretch: 6 dagar að meðaltali.
 
 BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
--Scale:
--Meter:
--Past:
--Goal:
--Stretch:
+
+- Scale: Meðaltími frá því að vika lýkur þar til stjórnandi fær fullbúið yfirlit.
+- Meter: Kerfisloggar og innsendingardagsetningar skýrslna.
+- Past (Baseline): 5 dagar eftir lok viku.
+- Goal: 4,5 dagar.
+- Stretch: 4 dagar.
 
 BO-6:Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
--Scale:
--Meter:
--Past:
--Goal:
--Stretch:
+
+- Scale: Hlutfall færslna sem eru fluttar sjálfvirkt úr kerfinu í bókhald/launakerfi án handvirkrar innsláttar.
+- Meter: Hlutfall sjálfvirkra gagnainnflutninga samkvæmt kerfisloggum og bókhaldsferlum.
+- Past (Baseline): 0% sjálfvirkt (allt slegið inn handvirkt).
+- Goal: 90% sjálfvirkt flutt.
+- Stretch: 100% sjálfvirkt flutt.
 
 ### 1.4 Árangurs mælikvarðar
 
