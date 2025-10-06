@@ -37,18 +37,21 @@
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+
+BO-1:Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum eftir fyrstu útgáfu.
+BO-2:Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að hægt sé að minnka eldneytiskostnað um 5% ári eftir fyrstu útgáfu, 
+BO-3:Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánuðum eftir fyrstu útgáfu.
+BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%, 6 mánuðum eftir fyrstu útgáfu.
+BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
+BO-6:Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
 
 ### 1.4 Árangurs mælikvarðar
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
+Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugga og áreiðanlega leið til þess að skrá vinnutíma, akstur og annan kostnað á fljótlegan hátt. Með Tíma getur notandinn skráð sig inn í kerfið þegar hann byrjar að vinna, og skráð sig út þegar vinnu líkur. Tíminn sem hann vinnur skráist sjálfkrafa í kerfið og sendir upplýsingar í miðlægt launakerfi þar sem laun starfsmannsins eru reiknuð. Kerfið getur einnig haldið um akstur á vinnutíma, ef notandinn skráir upphaf og lok aksturs. Upplýsingar um heildarakstur og eldsneytiskostnað eru einnig sendar í miðlægt launakerfi til vinnslu. Kerfið nýtir sér GPS við reikning á akstri. Einnig á notandinn að geta skráð aukakostnað vegna matar og afþreyingar til endurgreiðslu og geta tekið myndir af tengdum kvittunum.  Starfsfólk fær strax yfirsýn yfir unnar klukkustundir og uppsafnaðan akstur og stöðu á endurgreiðslu aukakostnaðar. Viðmótið er hannað fyrir notendur með mismunandi tæknikunnáttu og virkar án nettengingar. Nýja lausnin leysir af hólmi mjög handvirkt ferli. Í dag skráir starfsfólk ferðir, vinnutíma og aukakostnað í mismunandi kerfi eða í dagbók og skilar inn. Starfsmaður launadeildar slær þessar upplýsingar inn í kerfið til þess að reikna laun og endurgreiða kostnað. Kerfið mun gera ferlið mun skilvirkara og minnka villuhættu í innslætti.
+
 ### 1.6 Viðskiptaáhætta
 
 
@@ -60,15 +63,29 @@ enterprise architectures, organizational strategic directions, and cost and reso
 ## 2. Umfang  og takmarkanir 
 ### 2.1 Helstu fídusar
 
+FE-1:Stimpla sig inn/út úr vinnu.
+FE-2:Merkja byrjun og lok aksturs.
+FE-3:Sjálfvirk skráning aksturslengdar og hraða.
+FE-4:Útreikningur eldsneytiskostnaðar.
+FE-5:Skránings aukakostnaðar með mynd af kvittun
+FE-6:Samþætting við launakerfi, allur vinnutími akstur og aukakostnaður flyst sjálfvirkt í launakerfi.
+FE-7:Til er yfirlit yfir vinnutíma, akstur og aukakostnað fyrir starfsmenn og yfirmenn.
+FE-8:Til er yfirlit yfir stöðu aukakostnaðar.
+FE-9:Forritið virkar án nettengingar.
 
 ### 2.2 Umfang fyrstu útgáfu
-*(Skrifaðu þennan kafla )*
 
-[Describe the intended major features that will be included in the initial release of the product. 
-Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
-product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
-include every possible feature that any potential customer category might conceivably want some day.
-Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+| Feature | Release 1 | Release 2 | Release 3 |
+|---|---|---|---|
+| FE-1: Stimpla inn/út | Einföld stimplun inn/út í síma. Hægt að leiðrétta ef gleymist. | Áminning og sjálfvirk stimplun út í lok dags og stillanlegar vaktir. | Lausn fullgerð |
+| FE-2: Akstur byrja/lok | Byrja/lok hnappur. Handvirk leiðrétting leyfð. | Áminning um að ljúka ferð. | Lausn fullgerð |
+| FE-3: Sjálfvirk skráning aksturslengdar og hraða | Grunn útreikningur úr GPS. | Nákvæmari mæling. | Lausn fullgerð |
+| FE-4: Útreikningur eldsneytiskostnaðar | Ekki þróað í útgáfu 1 | Reiknað út frá stöðlum. | Lausn fullgerð |
+| FE-5: Skráning aukakostnaðar | Ekki þróað í útgáfu 1 | Skrifað er inn dags., verð og útskýring. Tekin er mynd af kvittun. | Útskýring slegin inn. Tekin er mynd af kvittun og dags. og verð fer sjálfkrafa inn. |
+| FE-6: Samþætting við launakerfi | Stuðningur við mest notaða launakerfið. | Ekkert | Stuðningur við fleiri launakerfi. |
+| FE-7: Yfirlit yfir vinnutíma, akstur og aukakostnað | Yfirlit yfir akstur og vinnutíma. | Ítarlegri skýrslugerð. | Lausn fullgerð |
+| FE-8: Yfirlit yfir stöðu aukakostnaðar | Ekki þróað í útgáfu 1 | Sýnileg staða sent / samþykkt / hafnað | Tilkynningar |
+| FE-9: Án nettengingar / samstilling | Ekki þróað í útgáfu 1 | Hægt að skrá án nets. Appið geymir gögn og sendir þau sjálfkrafa þegar síminn tengist Wi-Fi. | Lausn fullgerð |
 
 ### 2.3 Takmarkanir og útilokanir
 
