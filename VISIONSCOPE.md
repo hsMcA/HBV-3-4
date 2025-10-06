@@ -96,16 +96,15 @@ Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugg
 ### 3.1 Prófílar forgangs hagsmunaaðila 
 *(Skrifaðu þennan kafla )*
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
+| **Hagsmunaaðili**                         | **Lýsing / Hlutverk**                                                       | **Helstu markmið og væntingar**                                                         | **Ávinningur / Gildi**                                                             | **Viðhorf til kerfisins**                                | **Takmarkanir eða þarfir**                                                                 |
+| ----------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Liðveislar (endanotendur)**             | Starfsfólk sem notar kerfið til að skrá vinnu, keyrslur og senda kvittanir. | Vill að skráning taki stuttan tíma og sé einföld, örugg og áreiðanleg.                  | Sparar tíma, dregur úr mistökum, tryggir rétta launaútreikninga og endurgreiðslur. | Jákvætt ef kerfið er notendavænt og minnkar skrifræði.   | Þarf einfalt og skýrt viðmót, stuðning á síma (iOS/Android) og möguleika á notkun án nets. |
+| **Yfirmenn / Umsjónarmenn liðveislu**     | Samþykkja tímaskráningar, akstur og kvittanir starfsfólks.                  | Vill auðvelt yfirlit yfir skráningar og möguleika til að samþykkja eða hafna kvittunum. | Betri yfirsýn, aukin skilvirkni og minni pappírsnotkun.                            | Jákvætt ef kerfið sparar tíma og einfaldar stjórnun.     | Þarf aðgengi að rauntímagögnum og samræmdar skýrslur.                                      |
+| **Bókhald / Fjármáladeild**               | Tekur við skýrslum og gögnum fyrir launagreiðslur og endurgreiðslur.        | Vill fá rafrænar, stöðluð gögn sem hægt er að flytja inn í launakerfi.                  | Sparar tíma, minnkar handvirka vinnu og tryggir nákvæma bókhaldsfærslu.            | Jákvætt ef kerfið dregur úr villum og eykur gagnsæi.     | Þarf örugga gagnaskráningu, samhæfni við bókhaldskerfi og GDPR-samræmi.                    |
+| **Kerfisstjóri / Tækniaðili**             | Ber ábyrgð á viðhaldi, öryggi og tæknilegri uppfærslu kerfisins.            | Vill að kerfið sé stöðugt, öruggt og auðvelt í viðhaldi.                                | Minni bilanir, stöðugur rekstur og einfalt eftirlit.                               | Jákvætt ef kóðinn er skjalfestur og öruggur.             | Þarf góða skjölun, öryggisafrit og GDPR-samræmi.                                           |
+| **Þróunarteymi**                          | Hópur forritara og hönnuða sem sjá um að smíða og uppfæra kerfið.           | Vill skýrar kröfur og reglulegt notendamat til að bæta virkni.                          | Lærdómur, skýr markmið og vönduð lausn.                                            | Jákvætt ef verkefnið er vel skilgreint og viðhaldanlegt. | Takmarkaður tími og fjárhagsrammi, þarf endurgjöf frá notendum.                            |
+| **Sveitarfélag / Launagreiðandi stofnun** | Ber ábyrgð á greiðslu launa og endurgreiðslu kostnaðar til starfsfólks.     | Vill fá örugg og rétt gögn frá kerfinu.                                                 | Bætt ferlavinna, minni pappírsnotkun og tryggari launaútreikningar.                | Jákvætt ef kerfið sparar tíma og minnkar villur.         | Þarf samþættingu við launakerfi og rekjanleika gagna.                                      |
 
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
 ]
 Setjið gjarnan upp í töflu sbr námsefnið 
 
