@@ -39,16 +39,46 @@
 ### 1.3 Viðskiptamarkmið
 
 BO-1:Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 BO-2:Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að hægt sé að minnka eldneytiskostnað um 5% ári eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 BO-3:Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánuðum eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%, 6 mánuðum eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 BO-6:Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
+Scale:
+Meter:
+Past:
+Goal:
+Stretch:
 
 ### 1.4 Árangurs mælikvarðar
 
@@ -100,15 +130,14 @@ Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugg
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
 
-| **Hagsmunaaðili**                         | **Lýsing / Hlutverk**                                                       | **Helstu markmið og væntingar**                                                         | **Ávinningur / Gildi**                                                             | **Viðhorf til kerfisins**                                | **Takmarkanir eða þarfir**                                                                 |
-| ----------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Starfsfólk / (endanotendur)**             | Starfsfólk sem notar kerfið til að skrá vinnu, keyrslur og senda kvittanir. | Vill að skráning taki stuttan tíma og sé einföld, örugg og áreiðanleg.                  | Sparar tíma, dregur úr mistökum, tryggir rétta launaútreikninga og endurgreiðslur. | Jákvætt ef kerfið er notendavænt og minnkar skrifræði.   | Þarf einfalt og skýrt viðmót, stuðning á síma (iOS/Android) og möguleika á notkun án nets. |
-| **Yfirmenn / Umsjónarmenn liðveislu**     | Samþykkja tímaskráningar, akstur og kvittanir starfsfólks.                  | Vill auðvelt yfirlit yfir skráningar og möguleika til að samþykkja eða hafna kvittunum. | Betri yfirsýn, aukin skilvirkni og minni pappírsnotkun.                            | Jákvætt ef kerfið sparar tíma og einfaldar stjórnun.     | Þarf aðgengi að rauntímagögnum og samræmdar skýrslur.                                      |
-| **Bókhald / Fjármáladeild**               | Tekur við skýrslum og gögnum fyrir launagreiðslur og endurgreiðslur.        | Vill fá rafrænar, stöðluð gögn sem hægt er að flytja inn í launakerfi.                  | Sparar tíma, minnkar handvirka vinnu og tryggir nákvæma bókhaldsfærslu.            | Jákvætt ef kerfið dregur úr villum og eykur gagnsæi.     | Þarf örugga gagnaskráningu, samhæfni við bókhaldskerfi og GDPR-samræmi.                    |
-| **Kerfisstjóri / Tækniaðili**             | Ber ábyrgð á viðhaldi, öryggi og tæknilegri uppfærslu kerfisins.            | Vill að kerfið sé stöðugt, öruggt og auðvelt í viðhaldi.                                | Minni bilanir, stöðugur rekstur og einfalt eftirlit.                               | Jákvætt ef kóðinn er skjalfestur og öruggur.             | Þarf góða skjölun, öryggisafrit og GDPR-samræmi.                                           |
-| **Þróunarteymi**                          | Hópur forritara og hönnuða sem sjá um að smíða og uppfæra kerfið.           | Vill skýrar kröfur og reglulegt notendamat til að bæta virkni.                          | Lærdómur, skýr markmið og vönduð lausn.                                            | Jákvætt ef verkefnið er vel skilgreint og viðhaldanlegt. | Takmarkaður tími og fjárhagsrammi, þarf endurgjöf frá notendum.                            |
-| **Sveitarfélag / Launagreiðandi stofnun** | Ber ábyrgð á greiðslu launa og endurgreiðslu kostnaðar til starfsfólks.     | Vill fá örugg og rétt gögn frá kerfinu.                                                 | Bætt ferlavinna, minni pappírsnotkun og tryggari launaútreikningar.                | Jákvætt ef kerfið sparar tíma og minnkar villur.         | Þarf samþættingu við launakerfi og rekjanleika gagna.                                      |
-
+| **Stakeholder**                           | **Major Value**                                                                        | **Attitudes**                                                                                                              | **Major Interests**                                                                                     | **Constraints**                                                                                                 |
+| ----------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Starfsfólk (endanotendur)**             | Auðveldari skráning á vinnu, akstri og kvittunum; tryggir rétt laun og endurgreiðslur. | Spenntir fyrir því að hafa einfalt kerfi sem sparar tíma og minnkar skrifræði; geta þó haft áhyggjur af tæknilegri flækju. | Notendavænt viðmót; áreiðanleg tímaskráning; sjálfvirkur launaútreikningur; möguleiki á notkun án nets. | Takmörkuð tæknikunnátta hjá sumum notendum; þarf að virka á bæði iOS og Android; þarf að virka án nettengingar. |
+| **Yfirmenn / Umsjónarmenn liðveislu**     | Betri yfirsýn yfir starfsfólk, vinnutíma og kostnað; einfaldara samþykktarferli.       | Jákvæðir ef kerfið eykur skilvirkni og minnkar pappírsnotkun; vilja áreiðanleg gögn.                                       | Að geta samþykkt skráningar og kvittanir auðveldlega; yfirlit yfir heildarvinnutíma og kostnað.         | Þarf að hafa aðgang að rauntímagögnum og stöðluðu sniði fyrir skýrslur.                                         |
+| **Bókhald / Fjármáladeild**               | Sparar tíma og tryggir nákvæmar greiðslur; rafræn gögn auðvelda vinnslu.               | Styðja innleiðingu ef gögn eru samhæfð við bókhaldskerfi; annars efins.                                                    | Samræmdar skýrslur; rétt útreiknað laun og kostnaður; einfaldur útflutningur í CSV/Excel.               | Þarf samhæfni við launakerfi sveitarfélagsins; þarf að uppfylla GDPR-reglur.                                    |
+| **Sveitarfélag / Launagreiðandi stofnun** | Betri yfirsýn yfir launakostnað og endurgreiðslur; minni pappírsnotkun.                | Jákvætt við nýtt kerfi ef það eykur gagnsæi og sparar tíma.                                                                | Traust gagnasöfnun; öruggar samþættingar við launakerfi og bókhald.                                     | Krafist samræmis við lög og reglur um persónuvernd; þarf samþykki til gagnaflutnings.                           |
+| **Kerfisstjóri / Tækniaðili**             | Stöðugt og öruggt kerfi sem er auðvelt í viðhaldi.                                     | Hlutlaus en leggur áherslu á öryggi, rekstrarstöðugleika og skjölun.                                                       | Öruggt gagnaflæði; einfalt að uppfæra og bæta kerfið.                                                   | Takmarkaður tími og fjármagn til viðhalds; þarf skjalfestar ferlar og öryggisafrit.                             |
+| **Þróunarteymi**                          | Skýr verkefnaskil og jákvæð notendaupplifun; tækifæri til að þróa notendavænt kerfi.   | Áhugasamir og jákvæðir ef kröfur eru skýrar og samvinna við notendur góð.                                                  | Regluleg endurgjöf frá notendum; auðveld uppfærsla og prófanir.                                         | Tímarammi og fjárhagsáætlun geta takmarkað virkni í fyrstu útgáfu.                                              |
 
 ### 3.2 Forgangsröðun verkefnis 
 
