@@ -63,15 +63,15 @@ Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugg
 ## 2. Umfang  og takmarkanir 
 ### 2.1 Helstu fídusar
 
-| FE-1: Stimpla sig inn/út úr vinnu. |
-| FE-2: Merkja byrjun og lok aksturs. |
-| FE-3: Sjálfvirk skráning aksturslengdar og hraða. |
-| FE-4: Útreikningur eldsneytiskostnaðar. |
-| FE-5: Skráning aukakostnaðar með mynd af kvittun. |
-| FE-6: Samþætting við launakerfi; allur vinnutími, akstur og aukakostnaður flyst sjálfvirkt í launakerfi. |
-| FE-7: Yfirlit yfir vinnutíma, akstur og aukakostnað fyrir starfsmenn og yfirmenn. |
-| FE-8: Yfirlit yfir stöðu aukakostnaðar. |
-| FE-9: Forritið virkar án nettengingar. |
+- FE-1: Stimpla sig inn/út úr vinnu.
+- FE-2: Merkja byrjun og lok aksturs.
+- FE-3: Sjálfvirk skráning aksturslengdar og hraða.
+- FE-4: Útreikningur eldsneytiskostnaðar.
+- FE-5: Skráning aukakostnaðar með mynd af kvittun.
+- FE-6: Samþætting við launakerfi; allur vinnutími, akstur og aukakostnaður flyst sjálfvirkt í launakerfi.
+- FE-7: Yfirlit yfir vinnutíma, akstur og aukakostnað fyrir starfsmenn og yfirmenn.
+- FE-8: Yfirlit yfir stöðu aukakostnaðar.
+- FE-9: Forritið virkar án nettengingar.
 
 ### 2.2 Umfang fyrstu útgáfu
 
