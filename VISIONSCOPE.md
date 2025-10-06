@@ -67,11 +67,11 @@ BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%
 - Stretch:
 
 BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
-- Scale:
-- Meter:
-- Past:
-- Goal:
-- Stretch:
+- Scale:Tími sem stjórnendur bíða eftir yfirliti
+- Meter: Könnun gerð eftir 6 mánuði.
+- Past: Könnun gerð í upphafi verkefnis.
+- Goal: 10%.
+- Stretch: 15%.
 
 BO-6:Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
 - Scale: Tími sem starfsmaður eyðir í að slá inn upplýsingar
