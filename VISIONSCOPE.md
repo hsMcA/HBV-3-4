@@ -4,7 +4,7 @@
 [Setjið inn númer teymis og fullt nafn höfunda verkefnis]
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+[Tími]
 
 
 ## Efnisyfirlit 
