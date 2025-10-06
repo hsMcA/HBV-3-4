@@ -38,7 +38,7 @@
 
 ### 1.3 Viðskiptamarkmið
 
-BO-1:Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum eftir fyrstu útgáfu.
+BO-1: Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum eftir fyrstu útgáfu.
 
 - Scale: Meðaltími sem notandi eyðir í að skrá vinnu, akstur og kvittanir á dag.
 - Meter: Mældur með notendagögnum úr kerfinu (inn- og útskráningartími skráninga) og notendakönnun.
@@ -46,7 +46,7 @@ BO-1:Stytta tíma sem starfsmaður eyðir í skráningu um 25%, 6 mánuðum efti
 - Goal: 6 mínútur á dag.
 - Stretch: 5 mínútur á dag.
 
-BO-2:Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að hægt sé að minnka eldneytiskostnað um 5% ári eftir fyrstu útgáfu.
+BO-2: Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að hægt sé að minnka eldneytiskostnað um 5% ári eftir fyrstu útgáfu.
 
 - Scale: Meðalheildarkostnaður vegna aksturs (krónur á kílómetra) á ári.
 - Meter: Upplýsingar úr kerfinu og reikningum bókhalds um endurgreiddan aksturskostnað.
@@ -54,7 +54,7 @@ BO-2:Nákvæmari útreikningur á eldsneytiskostnaði, gert er ráð fyrir að h
 - Goal: 95% af fyrri kostnaði (5% sparnaður).
 - Stretch: 90% af fyrri kostnaði (10% sparnaður).
 
-BO-3:Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánuðum eftir fyrstu útgáfu.
+BO-3: Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánuðum eftir fyrstu útgáfu.
 
 - Scale: Fjöldi villutilfella í kostnaðar- eða launaútreikningi á mánuði.
 - Meter: Skráðar villur í bókhaldskerfi eða endurskoðunargögnum.
@@ -62,7 +62,7 @@ BO-3:Minnka villur í skráningu kostnaðar og launaútreikningi um 90%, 4 mánu
 - Goal: 2 villur á mánuði.
 - Stretch: 0–1 villa á mánuði.
 
-BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%, 6 mánuðum eftir fyrstu útgáfu.
+BO-4: Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%, 6 mánuðum eftir fyrstu útgáfu.
 
 - Scale: Meðaltími (í dögum) frá innsendingu kvittunar til endurgreiðslu.
 - Meter: Bókhaldskerfi sveitarfélagsins og dagsetningar úr kvittunarskrá.
@@ -70,7 +70,7 @@ BO-4:Stytta þann tíma sem tekur að fá endurgreiðslu á aukakostnaði um 20%
 - Goal: 8 dagar að meðaltali.
 - Stretch: 6 dagar að meðaltali.
 
-BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
+BO-5: Stytta tíma þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og endurgreiðslur um 10%, 6 mánuðum eftir fyrstu útgáfu.
 
 - Scale: Meðaltími frá því að vika lýkur þar til stjórnandi fær fullbúið yfirlit.
 - Meter: Kerfisloggar og innsendingardagsetningar skýrslna.
@@ -78,7 +78,7 @@ BO-5:Styttri tími þar til stjórnendur fá yfirlit yfir vinnutíma, akstur og 
 - Goal: 4,5 dagar.
 - Stretch: 4 dagar.
 
-BO-6:Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
+BO-6: Sleppa tvískráningu á upplýsingum, starfsmaður launadeildar þarf ekki að slá inn upplýsingar, aðeins að yfirfara. 90%, 6 mánuðum eftir fyrstu útgáfu.
 
 - Scale: Hlutfall færslna sem eru fluttar sjálfvirkt úr kerfinu í bókhald/launakerfi án handvirkrar innsláttar.
 - Meter: Hlutfall sjálfvirkra gagnainnflutninga samkvæmt kerfisloggum og bókhaldsferlum.
