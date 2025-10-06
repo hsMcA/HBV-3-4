@@ -108,6 +108,8 @@ Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugg
 - FE-8: Yfirlit yfir stöðu aukakostnaðar.
 - FE-9: Forritið virkar án nettengingar.
 
+![Feature tree](./mynd.png)
+
 ### 2.2 Umfang fyrstu útgáfu
 
 | Feature | Release 1 | Release 2 | Release 3 |
