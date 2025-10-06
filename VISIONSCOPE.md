@@ -1,7 +1,7 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+[Hópur #4 Bergur, Helga, Kristófer]
 
 ## Heiti kerfis
 [Tími]
@@ -94,7 +94,6 @@ Tími er farsímaforrit fyrir starfsfólk liðveislu sem þurfa einfalda, örugg
 
 ## 3. Samhengi viðskipta
 ### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
 
 | **Hagsmunaaðili**                         | **Lýsing / Hlutverk**                                                       | **Helstu markmið og væntingar**                                                         | **Ávinningur / Gildi**                                                             | **Viðhorf til kerfisins**                                | **Takmarkanir eða þarfir**                                                                 |
 | ----------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
